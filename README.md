@@ -1,2 +1,2 @@
-# WeighingGrinder
-Arduino Weighing Grinder
+# GrinderScales
+ Arduino Based Weighing Grinder
